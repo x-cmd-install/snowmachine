@@ -196,3 +196,4 @@ checks:
       - 'Warn: pipCommand not pinned by hash: Dockerfile:4'
       - 'Info:   0 out of   1 containerImage dependencies pinned'
       - 'Info:   0 out of   1 pipCommand dependencies pinned'
+---
