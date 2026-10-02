@@ -196,3 +196,4 @@ checks:
     details:
       - 'Info: project has a license file: LICENSE.txt:0'
       - 'Info: FSF or OSI recognized license: BSD 3-Clause "New" or "Revised" License: LICENSE.txt:0'
+---
