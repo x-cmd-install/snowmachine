@@ -30,9 +30,9 @@ Overall score: **2.1 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (2/10) — Found 4/19 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 0 | 2 | 1 | 0 | 1 | 7 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-01 | 0 | 2 | 1 | 0 | 1 | 7 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for snowmachine lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:54:12Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:47:30Z._
